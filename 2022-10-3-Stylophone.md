@@ -2,8 +2,8 @@ layout: project_template
 title: Stylophone
 description: Reverse engineering a Stylophone using a 555 timer
 date: 2022-10-3 20:00:00
-hero_image: ![Stylophone](stylophone_prototype.jpg)
-image: ![Stylophone](stylophone_prototype.jpg)
+hero_image: /web/img/SampleProject/open_house.png
+image: /web/img/SampleProject/open_house.png
 hero_height: is-small
 hero_darken: true
 tags: project
@@ -17,7 +17,7 @@ Jivitesh Kukreja, Electrical Engineering (2024)
 jiviteshkuk26@vt.edu
 
 ## Repo Link
-<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Stylophone">Stylophone/</a>
+<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Stylophone">Stylophone</a>
 
 ## Photo
 ![Stylophone](stylophone_prototype.jpg)
