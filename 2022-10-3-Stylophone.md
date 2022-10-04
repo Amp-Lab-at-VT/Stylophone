@@ -1,3 +1,4 @@
+---
 layout: project_template
 title: Stylophone
 description: Reverse engineering a Stylophone using a 555 timer
