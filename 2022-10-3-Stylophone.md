@@ -3,8 +3,8 @@ layout: project_template
 title: Stylophone
 description: Reverse engineering a Stylophone using a 555 timer
 date: 2022-10-3 20:00:00
-hero_image: /web/img/SampleProject/open_house.png
-image: /web/img/SampleProject/open_house.png
+hero_image: ![Stylophone](Stylophone_PCB_3D_Render.png)
+image: ![Stylophone](Stylophone_PCB_3D_Render.png)
 hero_height: is-small
 hero_darken: true
 tags: project
@@ -21,7 +21,7 @@ jiviteshkuk26@vt.edu
 <a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Stylophone">Stylophone</a>
 
 ## Photo
-![Stylophone](stylophone_prototype.jpg)
+![Stylophone](Stylophone_PCB_3D_Render.png)
 
 ## Mentor
 Richard Gibbons
@@ -36,9 +36,9 @@ There is also vibrato mode which when selected acts like sustain on pianos.
 
 ## Educational Value Added
 This Project with help me learn:
-1.How to design low frequency oscillators
-2.How to a simple audio amplifier 
-3.How to design PCB
+1. How to design low frequency oscillators
+2. How to a simple audio amplifier 
+3. How to design PCB
 
 ## Tasks
 1. Design a square wave generator using TLC555 that produces different frequencies with different resistor values.
@@ -46,13 +46,14 @@ This Project with help me learn:
 3. Design a low-frequency sine wave generator for vibrato effect.
 4. Power everything with a USB c connector. 
 
-## Design Decisions
+[//]: # Design Decisions
 
-## Design Misc
+[//]: ## Design Misc
 
-## Steps for Documenting Your Design Process
+[//]: ## Steps for Documenting Your Design Process
 
 ## BOM + Component Cost
+<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Stylophone/blob/main/Fabrication%20Files/Stylophone%20BOM.csv">Bill Of Materials</a>
 
 ## Timeline
 SEPTEMBER: Circuit Design 
@@ -60,5 +61,7 @@ OCTOBER: PCB Design and Protoboard Testing
 NOVEMBER: Assembly and Testing
 
 ## Useful Links
+https://www.waitingforfriday.com/?p=334
+https://www.instructables.com/Retro-Stylophone-NE555-Based/
 
-## Log
+[//]: ## Log
