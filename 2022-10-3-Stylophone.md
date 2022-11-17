@@ -3,8 +3,8 @@ layout: project_template
 title: Stylophone
 description: Reverse engineering a Stylophone using a 555 timer
 date: 2022-10-3 20:00:00
-hero_image: ![Stylophone](Stylophone_PCB_3D_Render.png)
-image: ![Stylophone](Stylophone_PCB_3D_Render.png)
+hero_image: /web/img/Stylophone/Stylophone_PCB_3D_Render.png
+image: /web/img/Stylophone/Stylophone_PCB_3D_Render.png
 hero_height: is-small
 hero_darken: true
 tags: project
@@ -14,14 +14,14 @@ show_sidebar: false
 ---
 
 ## Members
-Jivitesh Kukreja, Electrical Engineering (2024)
+Jivitesh Kukreja, Electrical Engineering (2024)\
 jiviteshkuk26@vt.edu
 
 ## Repo Link
 <a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Stylophone">Stylophone</a>
 
 ## Photo
-![Stylophone](Stylophone_PCB_3D_Render.png)
+/web/img/Stylophone/Stylophone_PCB_3D_Render.png
 
 ## Mentor
 Richard Gibbons
@@ -44,9 +44,9 @@ This Project with help me learn:
 1. Design a square wave generator using TLC555 that produces different frequencies with different resistor values.
 2. Design an audio amplifier that drives the speaker.
 3. Design a low-frequency sine wave generator for vibrato effect.
-4. Power everything with a USB c connector. 
+4. Power everything with a USB C connector. 
 
-[//]: # Design Decisions
+[//]: #Design Decisions
 
 [//]: ## Design Misc
 
@@ -56,12 +56,12 @@ This Project with help me learn:
 <a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Stylophone/blob/main/Fabrication%20Files/Stylophone%20BOM.csv">Bill Of Materials</a>
 
 ## Timeline
-SEPTEMBER: Circuit Design 
-OCTOBER: PCB Design and Protoboard Testing
-NOVEMBER: Assembly and Testing
+SEPTEMBER: Circuit Design\
+OCTOBER: PCB Design and Protoboard Testing\
+NOVEMBER: Assembly and Testing\
 
 ## Useful Links
-https://www.waitingforfriday.com/?p=334
+https://www.waitingforfriday.com/?p=334 \
 https://www.instructables.com/Retro-Stylophone-NE555-Based/
 
 [//]: ## Log
