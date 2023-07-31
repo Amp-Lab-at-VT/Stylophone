@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Stylophone_Lib")(type "KiCad")(uri "${KIPRJMOD}/Stylophone_Lib.pretty")(options "")(descr ""))
+  (lib (name "Wirt Slikscreen")(type "KiCad")(uri "C:/Users/jivit/Documents/Stylophone/Wirt Slikscreen")(options "")(descr ""))
+)
