@@ -41,8 +41,9 @@ This Project with help me learn:
 
 [//]: ## Steps for Documenting Your Design Process
 
-## BOM + Component Cost
-<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Stylophone/blob/main/Fabrication%20Files/Stylophone%20BOM.csv">Bill Of Materials</a>
+## Fabrication Files
+<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Stylophone/blob/main/Fabrication%20Files/PUT/gerber_files_with_battery.zip">Gerber Files</a>
+<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Stylophone/blob/main/Fabrication%20Files/PUT/Stylophone_with_battery.csv">Bill Of Materials</a>
 
 ## Timeline
 SEPTEMBER: Circuit Design\

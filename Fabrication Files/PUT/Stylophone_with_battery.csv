@@ -1,5 +1,5 @@
 Item,Q.R.,Reference(s),Value,Footprint,Qty. To Order,Manufacturer,Manufacturer Part,Supplier Link,Unit Price For 1+($),Unit Price For 10+($),Ext. Price($),Total Price($),Comments
-1,2,"CA1, CA2",10n,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,10,Samsung Electro-Mechanics ,CL10B103KB8NNNC ,https://www.mouser.com/ProductDetail/187-CL10B103KB8NNNC,0.1,0.025,0.25,59.324,
+1,2,"CA1, CA2",10n,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,10,Samsung Electro-Mechanics ,CL10B103KB8NNNC ,https://www.mouser.com/ProductDetail/187-CL10B103KB8NNNC,0.1,0.025,0.25,59.387,
 2,5,"CC1, CLB1, CLB2, CMB1, COS5",100n,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,15,Samsung Electro-Mechanics ,CL10B104KB8NNNC ,https://www.mouser.com/ProductDetail/187-CL10B104KB8NNNC,0.1,0.028,0.42,,
 3,1,CHB1,47n,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,10,Samsung Electro-Mechanics ,CL10B473KB8NNNC ,https://www.mouser.com/ProductDetail/187-CL10B473KB8NNNC,0.1,0.031,0.31,,
 4,4,"CC2, CC3, CC4, CMX1",10u,Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,12,Samsung Electro-Mechanics ,CL31B106KBHNNNE ,https://www.mouser.com/ProductDetail/187-CL31B106KBHNNNE,0.33,0.232,2.784,,
@@ -25,7 +25,7 @@ Item,Q.R.,Reference(s),Value,Footprint,Qty. To Order,Manufacturer,Manufacturer P
 22,1,RB4,390k,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,10,KOA Speer ,RK73H2ATTD3903F ,https://www.mouser.com/ProductDetail/660-RK73H2ATTD3903F,0.1,0.021,0.21,,
 23,2,"RBS1, RBS2",220,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,10,KOA Speer ,RK73H2ATTD2200F ,https://www.mouser.com/ProductDetail/660-RK73H2ATTD2200F ,0.1,0.021,0.21,,
 24,2,"RC1, RL19",6.8k,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,10,KOA Speer ,RK73H2ATTD6801F ,https://www.mouser.com/ProductDetail/660-RK73H2ATTD6801F ,0.1,0.021,0.21,,
-25,4,"RC2, ROS1, ROS2, RPU1",12k,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,12,KOA Speer ,RK73H2ATTD1202F ,https://www.mouser.com/ProductDetail/660-RK73H2ATTD1202F ,0.1,0.021,0.252,,
+25,5,"RC2, ROS1, ROS2, RPU1, RPD1",12k,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,15,KOA Speer ,RK73H2ATTD1202F ,https://www.mouser.com/ProductDetail/660-RK73H2ATTD1202F ,0.1,0.021,0.252,,
 26,1,RD1,47,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,10,KOA Speer ,RK73H2ATTD47R0F ,https://www.mouser.com/ProductDetail/660-RK73H2ATTD47R0F ,0.1,0.021,0.21,,
 27,7,"RE2, RI2, RL2, RL3, RMX1, RP1, RPG1",2.2k,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,21,KOA Speer ,RK73H2ATTD2201F ,https://www.mouser.com/ProductDetail/660-RK73H2ATTD2201F ,0.1,0.021,0.441,,
 28,5,"RE3, RL16, RL17, RL18, RL20",5.6k,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,15,KOA Speer ,RK73H2ATTD5601F ,https://www.mouser.com/ProductDetail/660-RK73H2ATTD5601F ,0.1,0.021,0.315,,
